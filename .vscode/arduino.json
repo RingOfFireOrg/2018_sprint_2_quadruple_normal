@@ -1,0 +1,4 @@
+{
+    "sketch": "QuadrupleNormal.ino",
+    "board": "arduino:avr:uno"
+}
