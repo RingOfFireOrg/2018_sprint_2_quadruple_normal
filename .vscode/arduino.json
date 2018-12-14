@@ -1,4 +1,6 @@
 {
     "sketch": "QuadrupleNormal.ino",
-    "board": "arduino:avr:uno"
+    "board": "arduino:avr:uno",
+    "programmer": "AVRISP mkII",
+    "port": "COM8"
 }
